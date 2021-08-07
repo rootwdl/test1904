@@ -1,5 +1,5 @@
 package com.wdl.domin;
 
-public class Person {
+public class Student {
     String id;
 }
